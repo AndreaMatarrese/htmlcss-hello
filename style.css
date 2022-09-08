@@ -1,0 +1,46 @@
+/* riquadro principale */
+
+.main
+{
+    padding: 10%;
+    position: relative;
+    
+}
+
+/* modifica grafica titolo */
+h1
+{
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+/* aggiunta riquadri */
+
+.quadror 
+{
+    border: 1px solid #ededed;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    align-items: center;
+    position: absolute;
+    left: 42%;
+}
+
+.quadron
+{
+    border: 1px solid #ededed;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+
+}
